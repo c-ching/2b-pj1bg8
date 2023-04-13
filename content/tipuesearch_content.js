@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '41023204 \n 41023205 \n test \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '41023204 陳妤瑄 \n 41023205 陳靚芸 \n 倉儲連結 \n 網站連結 \n', 'tags': '', 'url': 'About.html'}, {'title': 'BubbleRob', 'text': '', 'tags': '', 'url': 'BubbleRob.html'}]};
